@@ -7,40 +7,32 @@ description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
 author-meta: "Dr. Gang He"
 
 website:
-  title: "Quarto Academic"
+  title: "Breanna Brown"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "Bre Brown Academic Portfolio"
  
   navbar:
     background: light  # You can change the background color here
 
     left:   # You can comment out all navigation items here if you just like to keep the index page only
 #      - text: Home
-#        href: index.qmd
-      - text: About
+#        href: index.qmd            
+      - text: Experience
         menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publications
+          - text: Work Experience
             href: publications.qmd
-          - text: Selected Papers
+          - text: List of Publications
             href: posts.qmd#category=paper
-          - text: Grants
+          - text: Projects
             href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group   # Comment the Group part out to remove the Group page
-        href: people.qmd
+      #- text: Teaching # Comment the Teaching part out to remove the Teaching page
+     #   href: teaching.qmd
+    #  - text: Outreach
+     #   menu:        
+      #  - text: Presentations
+      #    href: posts.qmd#category=presentation                   
+    #  - text: Group   # Comment the Group part out to remove the Group page
+    #    href: people.qmd
 
     right: 
       - text: CV
@@ -48,28 +40,28 @@ website:
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-      - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
-        target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
+#      - text: "{{< fa brands bluesky >}}"
+ #       href: https://bsky.app
+#        target: _blank      
+  #    - icon: rss
+  #      href: posts.xml
+ #       target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    left: "[Breanna Brown](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
     center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
         href: https://github.com/drganghe/quarto-academic-website-template
         target: _blank
-      - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
-        target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
+#      - text: "{{< fa brands bluesky >}}" 
+#        href: https://bsky.app
+#        target: _blank
+#      - icon: rss
+ #       href: posts.xml
+  #      target: _blank  
   
   search:
     location: navbar
