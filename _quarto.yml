@@ -39,11 +39,8 @@ website:
         href: files/BBrown_Resume2025.pdf
       - text: CV
         href: files/nsf-biosketch.pdf
-      - icon: github
-        href: https://github.com/brebrown6101
-        target: _blank
   
-  page-navigation: true
+  page-navigation: false
   
   page-footer: 
     left: "[Breanna Brown](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 

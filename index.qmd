@@ -12,8 +12,8 @@ about:
   template: trestles
   image-width: 70%
   links:
-    - icon: sun
-      text: Lab
+    - icon: github
+      text: Projects
       href: https://github.com/brebrown6101
       target: _blank
     - icon: envelope
