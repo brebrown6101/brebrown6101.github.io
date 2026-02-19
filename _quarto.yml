@@ -20,7 +20,7 @@ website:
       - text: Experience
         menu:
           - text: Work Experience
-            href: posts.qmd
+            href: work.qmd
           - text: List of Publications
             href: publications.qmd
           - text: Projects

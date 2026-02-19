@@ -1,0 +1,40 @@
+---
+title: "Work Experience"
+description-meta: "work listings"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
+---
+
+### Data Analyst
+**Detroit Recovery Project -- Detroit MI** <br>
+[recovery4detroit.com](https://www.recovery4detroit.com) <br>
+*May 2023 - Sept 2025*
+
+Primary data analyst supporting a non-profit focused on prevention and recovery services for substance use disorder
+
+#### Key Contributions
+
+-   Created and presented Power BI visualizations of annual data for 8+ programs, delivering insights at all-staff meetings to drive organizational understanding and decision-making
+
+-   Organized and summarized program data using Microsoft Applications for use by leadership in grant writing and monthly reporting
+
+-   Developed two organization annual reports that were distributed to community stakeholders, showcasing program impact and outcomes
+
+-   Analyzed patient authorizations from the Certified Community Behavioral Health Clinic in Excel and R to ensure accuracy and compliance by clinical staff
+
+-   Conducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives
+
+-   Collaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention
+
+
+
+
+
+
+
+
+
+
+---

@@ -2,9 +2,9 @@
   {
     "objectID": "posts.html",
     "href": "posts.html",
-    "title": "What’s New & Updated",
+    "title": "Work Experience",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRecent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease\n\n\nCurrent Emergency and Hospital Medicine Reports\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nJacob LaValley, Breanna Brown\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\nNo matching items"
+    "text": "Data Analyst\nDetroit Recovery Project – Detroit MI  recovery4detroit.com  May 2023 - Sept 2025\nPrimary data analyst supporting a non-profit focused on prevention and recovery services for substance use disorder\n\nKey Contributions\n\nCreated and presented Power BI visualizations of annual data for 8+ programs, delivering insights at all-staff meetings to drive organizational understanding and decision-making\nOrganized and summarized program data using Microsoft Applications for use by leadership in grant writing and monthly reporting\nDeveloped two organization annual reports that were distributed to community stakeholders, showcasing program impact and outcomes\nAnalyzed patient authorizations from the Certified Community Behavioral Health Clinic in Excel and R to ensure accuracy and compliance by clinical staff\nConducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives\nCollaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention"
   },
   {
     "objectID": "publications.html",
@@ -138,5 +138,12 @@
     "title": "People",
     "section": "Alumni",
     "text": "Alumni\n\n\n   \n    \n    \n      Order By\n      Default\n      \n      \n      \n        Name\n      \n      \n        Role\n      \n      \n        Started\n      \n      \n        Ended\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nName\n\n\n\nRole\n\n\n\nStarted\n\n\n\nEnded\n\n\n\n\n\n\n\n\n\n\n\nAlumni A\n\n\nPhD Alumni\n\n\n2022-01\n\n\n2026-01\n\n\n\n\n\n\n\n\n\nAlumni B\n\n\nMasters Alumni\n\n\n2024-01\n\n\n2025-01\n\n\n\n\n\n\n\n\n\nAlumni C\n\n\nUndergraduate Alumni\n\n\n2023-01\n\n\n2024-01\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts.html#data-analyst",
+    "href": "posts.html#data-analyst",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Detroit Recovery Project, Detroit MI | Organization Website\nMay 2023 - Sept. 2025\n\n\nPrimary data analyst at this non-profit focused on prevention and recovery services for substance use disorder\n\nCreated and presented Power BI visualizations of annual data for 8+ programs, delivering insights at all-staff meetings to drive organizational understanding and decision-making\nOrganized and summarized program data using Microsoft Applications for use by leadership in grant writing and monthly reporting\nDeveloped two organization annual reports that were distributed to community stakeholders, showcasing program impact and outcomes\nConducted analysis of patient authorizations from the Certified Community Behavioral Health Clinic in Excel and R to ensure accuracy and compliance by clinical staff\nConducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives\nCollaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention"
   }
 ]
