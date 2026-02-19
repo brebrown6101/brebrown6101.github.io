@@ -13,7 +13,7 @@ about:
   image-width: 70%
   links:
     - icon: github
-      text: Projects
+      text: Git
       href: https://github.com/brebrown6101
       target: _blank
     - icon: envelope

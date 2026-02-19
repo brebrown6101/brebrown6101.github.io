@@ -4,21 +4,21 @@
     "href": "posts.html",
     "title": "What’s New & Updated",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\n\n\n\n\n\n\n\nCan quantum-mechanical description of physical reality be considered complete?\n\n\nPhysical Review\n\n\n\npaper\n\n\n\nOne is thus led to conclude that the description of reality as given by a wave function is not complete.\n\n\n\n\n\nMay 15, 1935\n\n\nAlbert Einstein, Boris Podolsky, Nathan Rosen\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Author\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nRecent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease\n\n\nCurrent Emergency and Hospital Medicine Reports\n\n\n\npaper\n\n\n\n\n\n\n\n\n\nApr 5, 2025\n\n\nJacob LaValley, Breanna Brown\n\n\n\n\n\n\n\n\n\n\n\n\nQuarto Academic Website Examples and Tips\n\n\n\n\n\n\nnews\n\n\n\nExamples and tips for Quarto Academic Website\n\n\n\n\n\nOct 15, 2024\n\n\nDr. Gang He\n\n\n\n\n\n\n\n\n\n\n\n\nEvent item\n\n\n\n\n\n\nevent\n\npresentation\n\n\n\nAbout Event item.\n\n\n\n\n\nSep 3, 2024\n\n\nEvent\n\n\n\n\n\n\n\n\n\n\n\n\nNews item\n\n\n\n\n\n\nnews\n\n\n\nAbout new item\n\n\n\n\n\nJun 24, 2024\n\n\nNews\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Notes: * corresponding author; GS graduate student advisee; VS visiting scholar;  ESI Highly Cited Paper (top 1%);  ESI Hot Paper (top 0.1%)\nTotal citations as of January 2025:"
+    "text": "Lavalley, J., Breanna, B. (2025). “Recent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease”. Current Emergency and Hospital Medicine Reports, 13:8. [pdf]"
   },
   {
     "objectID": "publications.html#selected-work",
     "href": "publications.html#selected-work",
     "title": "Publications",
-    "section": "Selected Work",
-    "text": "Selected Work\nEinstein, A., Podolsky, B., & Rosen, N. (1935). Can quantum-mechanical description of physical reality be considered complete?. Physical review, 47(10), 777. [pdf] [code and data]   \n\n\n\n\n\n\nEinstein, A. (1965). Concerning an heuristic point of view toward the emission and transformation of light. American Journal of Physics, 33(5), 367. [pdf]"
+    "section": "",
+    "text": "Lavalley, J., Breanna, B. (2025). “Recent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease”. Current Emergency and Hospital Medicine Reports, 13:8. [pdf]"
   },
   {
     "objectID": "projects.html",
@@ -44,14 +44,14 @@
   {
     "objectID": "posts/paper-title/index.html#abstract",
     "href": "posts/paper-title/index.html#abstract",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "title": "Recent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease",
     "section": "Abstract",
-    "text": "Abstract\nIn a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete."
+    "text": "Abstract\nPurpose of Review: Coronary artery disease (CAD) is characterized by narrowing or blockage of the coronary arteries, resulting in decreased delivery of oxygen-rich blood to the myocardium of the heart. Although it is the most common manifestation of heart disease in the United States, the presenting symptoms of CAD vary widely and can easily be confused for other medical conditions, leading to difficulties in making the emergent diagnosis in an efficient manner. Fortunately, many advances have recently been made in the detection and diagnosis of CAD.\nRecent Findings: In this review, we will focus primarily upon recent innovations in noninvasive testing for obstructive CAD that may be expected to aid in the early diagnosis of this condition in the emergency department (ED). New technology is discussed, such as the CADSCor System, which uses highly sensitive acoustic readings to determine CAD risk. Preventative measures including noninvasive testing have also advanced. These are exemplified by the CaRi Heart System, which provides information about the likelihood of future cardiac events based upon estimation of coronary artery inflammation via computed tomography angiography.\nSummary: Recently developed technologies have the potential to decrease the burden of diagnostic tests involved in ruling out obstructive CAD when investigating a chief complaint of chest pain in the ED. This could be of benefit in clinical environments such as the ED, where prompt response is essential, and chest pain is a common complaint."
   },
   {
     "objectID": "posts/paper-title/index.html#links",
     "href": "posts/paper-title/index.html#links",
-    "title": "Can quantum-mechanical description of physical reality be considered complete?",
+    "title": "Recent Developments in Noninvasive Testing and Risk Stratification for Obstructive Coronary Artery Disease",
     "section": "Links",
     "text": "Links\nPublished paper"
   },
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Breanna Brown",
     "section": "",
-    "text": "Projects\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nHello! My name is Breanna Brown and I am a biostatistician interested in public health research..\n\n\n\nMS Biostatistics, University of Washington\nBS Mathematics, Wayne State University"
+    "text": "Git\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nHello! My name is Breanna Brown and I am a biostatistician interested in public health research..\n\n\n\nMS Biostatistics, University of Washington\nBS Mathematics, Wayne State University"
   },
   {
     "objectID": "index.html#experience",

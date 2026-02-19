@@ -20,9 +20,9 @@ website:
       - text: Experience
         menu:
           - text: Work Experience
-            href: publications.qmd
+            href: posts.qmd
           - text: List of Publications
-            href: posts.qmd#category=paper
+            href: publications.qmd
           - text: Projects
             href: projects.qmd                                
       #- text: Teaching # Comment the Teaching part out to remove the Teaching page
