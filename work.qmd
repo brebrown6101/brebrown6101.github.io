@@ -8,7 +8,7 @@ css: custom.css
 ---
 
 ### Data Analyst
-**Detroit Recovery Project -- Detroit MI** <br>
+**Detroit Recovery Project -- Detroit, MI** <br>
 [recovery4detroit.com](https://www.recovery4detroit.com) <br>
 *May 2023 - Sept 2025*
 
@@ -27,14 +27,6 @@ Primary data analyst supporting a non-profit focused on prevention and recovery 
 -   Conducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives
 
 -   Collaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention
-
-
-
-
-
-
-
-
 
 
 ---

@@ -25,7 +25,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n      Default\n      \n      \n      \n        Title\n      \n      \n        Team\n      \n      \n        Funder\n      \n      \n        Description\n      \n      \n        Start\n      \n      \n        End\n      \n      \n        Funding\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n \n\n\n\nTitle\n\n\n\nTeam\n\n\n\nFunder\n\n\n\nDescription\n\n\n\nFunding\n\n\n\nStart\n\n\n\nEnd\n\n\n\n\n\n\n\n\n\n\n\nExploring \n\n\nAcademic Website\n\n\nFunder\n\n\nThe goal of this project is to investigate .\n\n\n$0\n\n\n2024\n\n\n2025\n\n\n\n\n\n\nNo matching items"
+    "text": "Overdose Surveillance Data Intern\nSeattle King County Public Health – Seattle, WA  kingcounty.gov  June 2025 - Sept 2025\n\nProject Details\n\nDeveloped a machine learning model in R to classify 2000+ overdose deaths recorded by the King County Medical Examiner’s Office by location type, enabling the prevention team to allocate resources and services more effectively\nResearched classification and text embedding techniques in machine learning and presented recommendations to the team to inform model development strategy\n\nView the final presentation here\n\n\n\n\nBiostatistician (Capstone)\nUniversity of Washington Surgical Outcomes Research Center – Seattle, WA  SORCE  Sept 2025 - March 2026\n\nProject Details\n\nAnalyzed large dataset from the Selection and Outcomes of Patients with Non-Operatively Managed Appendicitis (SONOMA) retrospective cohort study in R, generating key findings for publication\nAssisted the SONOMA research team in developing a statistical analysis plan based on research goals identified by principal investigators"
   },
   {
     "objectID": "posts/news-title/index.html",
@@ -95,7 +95,7 @@
     "href": "index.html",
     "title": "Breanna Brown",
     "section": "",
-    "text": "Git\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nHello! My name is Breanna Brown and I am a biostatistician interested in public health research..\n\n\n\nMS Biostatistics, University of Washington\nBS Mathematics, Wayne State University"
+    "text": "Git\n  \n  \n    \n     E-mail\n  \n  \n    \n     LinkedIn\n  \n\n  \n  \nHello! My name is Breanna Brown and I am a biostatistician interested in pursuing a career that integrates my passion for statistical research with my commitment to improving community health. I aspire to work as a collaborative biostatistician conducting prevention research within an academic institution or governmental organization. Specifically, I am interested in leveraging methods of causal inference to both establish and standardize best practices in the prevention of chronic physical and mental illnesses and to evaluate strategies addressing the comorbidities linked with these conditions. I am especially committed to advancing interventions that are accessible to low-income, unhoused and rural populations.\n\n\n\nMS Biostatistics, University of Washington\nBS Mathematics, Wayne State University"
   },
   {
     "objectID": "index.html#experience",
@@ -145,5 +145,12 @@
     "title": "Work Experience",
     "section": "",
     "text": "Detroit Recovery Project, Detroit MI | Organization Website\nMay 2023 - Sept. 2025\n\n\nPrimary data analyst at this non-profit focused on prevention and recovery services for substance use disorder\n\nCreated and presented Power BI visualizations of annual data for 8+ programs, delivering insights at all-staff meetings to drive organizational understanding and decision-making\nOrganized and summarized program data using Microsoft Applications for use by leadership in grant writing and monthly reporting\nDeveloped two organization annual reports that were distributed to community stakeholders, showcasing program impact and outcomes\nConducted analysis of patient authorizations from the Certified Community Behavioral Health Clinic in Excel and R to ensure accuracy and compliance by clinical staff\nConducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives\nCollaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention"
+  },
+  {
+    "objectID": "work.html",
+    "href": "work.html",
+    "title": "Work Experience",
+    "section": "",
+    "text": "Data Analyst\nDetroit Recovery Project – Detroit, MI  recovery4detroit.com  May 2023 - Sept 2025\nPrimary data analyst supporting a non-profit focused on prevention and recovery services for substance use disorder\n\nKey Contributions\n\nCreated and presented Power BI visualizations of annual data for 8+ programs, delivering insights at all-staff meetings to drive organizational understanding and decision-making\nOrganized and summarized program data using Microsoft Applications for use by leadership in grant writing and monthly reporting\nDeveloped two organization annual reports that were distributed to community stakeholders, showcasing program impact and outcomes\nAnalyzed patient authorizations from the Certified Community Behavioral Health Clinic in Excel and R to ensure accuracy and compliance by clinical staff\nConducted interviews with community members to assess local needs; created a detailed needs assessment report which was presented to community leaders to guide future initiatives\nCollaborated in writing two white papers on syringe service programs, focusing on overdose prevention and communicable disease prevention"
   }
 ]

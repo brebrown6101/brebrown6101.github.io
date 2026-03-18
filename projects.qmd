@@ -1,35 +1,36 @@
 ---
 title: "Projects"
-subtitle: "Funded projects"
-page-layout: full
-listing: 
-- id: projects
-  sort: "started desc"
-  type: table
-  fields: [image, title, author, subtitle, description, funding, started, ended]
-  grid-item-align: left
-  grid-columns: 3
-  image-height: 30px
-  field-display-names: 
-      title: "Title"
-      author: "Team"
-      subtitle: "Funder"
-      started: "Start"
-      ended: "End"
-      funding: "Funding"
-#  categories: true
-#  sort-ui: true
-#  filter-ui: true
-  contents: 
-#    - projects/ 
-    - projects.yml 
+description-meta: "work listings"
+#page-layout: full
+#back-to-top-navigation: true
+title-block-banner: false
+css: custom.css
 ---
 
+### Overdose Surveillance Data Intern
+**Seattle King County Public Health -- Seattle, WA** <br>
+[kingcounty.gov](https://kingcounty.gov/en/dept/dph) <br>
+*June 2025 - Sept 2025*
 
-:::{#projects}
-:::
+#### Project Details 
+
+- Developed a machine learning model in R to classify 2000+ overdose deaths recorded by the King County Medical Examiner’s Office by location type, enabling the prevention team to allocate resources and services more effectively
+
+- Researched classification and text embedding techniques in machine learning and presented recommendations to the team to inform model development strategy
+
+[View the final presentation here](https://github.com/brebrown6101/Work-Experience-Files/blob/main/2025%20KCSPH%20Internship%20/%20Final%20Presentation%20KCSPH.pdf)
+
+---
+
+### Biostatistician (Capstone)
+**University of Washington Surgical Outcomes Research Center -- Seattle, WA** <br>
+[SORCE](https://uwsurgery.org/sorce-intro/current-projects/) <br>
+*Sept 2025 - March 2026* 
+
+#### Project Details 
+
+- Analyzed large dataset from the Selection and Outcomes of Patients with Non-Operatively Managed Appendicitis (SONOMA) retrospective cohort study in R, generating key findings for publication
+- Assisted the SONOMA research team in developing a statistical analysis plan based on research goals identified by principal investigators
 
 
-<!--Include social share buttons-->
-
-{{< include /files/includes/_socialshare.qmd >}}
+---
