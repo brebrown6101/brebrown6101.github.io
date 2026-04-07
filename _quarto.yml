@@ -37,8 +37,8 @@ website:
     right: 
       - text: Resume
         href: files/BBrown_Resume2026.pdf
-      - text: CV
-        href: files/nsf-biosketch.pdf
+ #     - text: CV
+ #       href: files/nsf-biosketch.pdf
   
   page-navigation: false
   
